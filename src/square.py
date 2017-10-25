@@ -1,8 +1,8 @@
-def my_square (x):
+def my_square (y):
     """ just a comment
     and a new line
     ""
-    return (x * * 2)
+    return (y * * 2)
 
-print(my_square(3))
+print(my_square(42))
 
