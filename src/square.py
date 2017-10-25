@@ -1,5 +1,5 @@
 def my_square (y):
-    """ just a comment
+    """ just a comment more
     and a new line
     ""
     return (y * * 2)
