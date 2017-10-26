@@ -11,6 +11,6 @@ def my_square2 (y):
     ""
     return (y * * 2)
 
-print(my_square2(2))
+print(my_square2(3))
 
 
