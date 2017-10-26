@@ -1,2 +1,2 @@
-src
+SRC
 This contains other stuff
